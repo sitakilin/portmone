@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Lobster';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lobster'), local('Lobster-Regular'), url(../fonts.gstatic.com/s/lobster/v15/eTuGRSa_BjFL9g1rRLWFig.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(../fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTYraN7vELC11_xip9Rz-hMs.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(../fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-horaN7vELC11_xip9Rz-hMs.woff) format('woff');
+}
